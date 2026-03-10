@@ -31,7 +31,7 @@ across Egypt, Libya and Kuwait.
 | Linko | A Flutter live streaming and chat app powered by ZegoCloud & Firebase, featuring real-time chat, lounge, and full user profiles. | [GitHub](https://github.com/Omarsalama2001/Linko) |
 
 ### Platform Petroleum Services
-<img src="https://raw.githubusercontent.com/Omarsalama2001/platform-pps-certificate/main/assets/images/pps-logo-white.png" alt="Platform Petroleum Services" width="200"/>
+<img src="https://raw.githubusercontent.com/Omarsalama2001/Omarsalama2001/main/Logoooo.png" alt="Platform Petroleum Services" width="200"/>
 
 **Technologies Used:** Flutter Web, Firebase, Bloc/Cubit, Clean Architecture
 
@@ -41,6 +41,8 @@ across Egypt, Libya and Kuwait.
 **Technologies Used:** Flutter, Dart, Firebase, FastAPI
 
 ### Linko
+<img src="https://raw.githubusercontent.com/Omarsalama2001/linko/main/lib/assets/screenshots/home2_image-portrait.png" alt="Linko" width="200"/>
+
 **Technologies Used:** Flutter, Firebase, ZegoCloud, Bloc/Cubit, Clean Architecture
 
 ## 🎓 Education
