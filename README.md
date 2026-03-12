@@ -27,7 +27,7 @@ across Egypt, Libya and Kuwait.
 | Project | Description | Links |
 |---|---|---|
 | Platform Petroleum Services | A Flutter Web CRM system enabling the company to manage and issue employee certificates with QR-based access, PDF & Excel export, and full CRUD operations. | [Live](https://dashboard-pps.web.app/) · [Demo Repo](https://github.com/Omarsalama2001/platform-pps-demo) |
-| Islamina Quran App | A comprehensive Islamic Flutter app featuring multi-language Tafsir, prayer times, Khatma tracker with cloud sync, digital Tasbih, and live Quran radio streaming powered by a FastAPI backend. | [GitHub](https://github.com/Omarsalama2001/islamina_app/tree/main) |
+| Islamina Quran App | A comprehensive Islamic Flutter app featuring multi-language Tafsir, prayer times, Khatma tracker with cloud sync, digital Tasbih, and live Quran radio streaming powered by a FastAPI backend. | [GitHub](https://github.com/Omarsalama2001/islamina_demo) |
 | Linko | A Flutter live streaming and chat app powered by ZegoCloud & Firebase, featuring real-time chat, lounge, and full user profiles. | [GitHub](https://github.com/Omarsalama2001/Linko) |
 
 ### Platform Petroleum Services
@@ -38,7 +38,7 @@ across Egypt, Libya and Kuwait.
 > 🔒 Source code is private · [View Demo Repo](https://github.com/Omarsalama2001/platform-pps-demo) · [Live Demo](https://dashboard-pps.web.app/)
 
 ### Islamina Quran App
-<img src="https://raw.githubusercontent.com/Omarsalama2001/islamina_app/main/assets/images/ic_launcher.png" alt="Islamina Quran App" width="200"/>
+<img src="https://raw.githubusercontent.com/Omarsalama2001/islamina_demo/main/ic_launcher.png" alt="Islamina Quran App" width="200"/>
 
 **Technologies Used:** Flutter, Dart, Firebase, FastAPI
 
